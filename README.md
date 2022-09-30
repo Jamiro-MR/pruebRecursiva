@@ -1,2 +1,2 @@
-# pruebRecursiva
+# pruebaRecursiva
 Prueba de Estructura de datos
